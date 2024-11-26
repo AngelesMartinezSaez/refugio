@@ -1,12 +1,12 @@
 /* Estilo para el cuerpo */
 body {
-    background-color: #eee;
+   background: linear-gradient(to bottom, #cc6600 0%, #ffcc66 100%);
 }
 
 /* Estilo para el encabezado */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color:BurlyWood;
+    color: BurlyWood;
     text-align: center;
 	padding-top: 15px;
     padding-bottom: 15px;
@@ -95,4 +95,4 @@ footer {
 /* default hover effect */
 a:hover {
   color: black;
-  background: yellow;
+  background: chocolate;
