@@ -1,12 +1,12 @@
 /* Estilo para el cuerpo */
 body {
-    background-color: #eee;
+    background-color:AntiqueWhite;
 }
 
 /* Estilo para el encabezado */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: BlanchedAlmond;
+    color:BurlyWood;
     text-align: center;
 	padding-top: 15px;
     padding-bottom: 15px;
@@ -50,7 +50,7 @@ nav ul li {
 
 a {
     text-decoration: none;
-    color: #fff;
+    color: DarkGoldenRod;
 	padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
@@ -60,8 +60,8 @@ a {
 /* Estilo para los encabezados 2 */
 h2 {
 	text-shadow: white 2px 5px;
-    background-color: #333;
-    color: #fff;
+    background-color:LemonChiffon;
+    color:LightYellow;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	padding-left: 10px;
@@ -73,7 +73,7 @@ h2 {
 /* Estilo para los artículos */
 article {
     border: 1px solid #ccc;
-    background-color: #fff;
+    background-color:LightYellow;
 	margin-bottom: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -83,8 +83,8 @@ article {
 
 /* Estilo para el pie de página */
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: Khaki;
+    color: GoldenRod;
     text-align: center;
 	margin-bottom: 20px;
     padding-top: 10px;
@@ -95,4 +95,4 @@ footer {
 /* default hover effect */
 a:hover {
   color: black;
-  background: yellow;
+  background:Chocolate;
