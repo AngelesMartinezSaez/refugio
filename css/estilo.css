@@ -140,19 +140,19 @@ footer a {
     color: #ffdd57;
     text-decoration: none;
 }
-
 img {
   display: block;
   width: 50%;
-     border-radius: 15px;
+    border-radius: 15px;
     border: 6px solid #6db3f2;
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
     transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
 .centrar {
   margin-left: auto;
   margin-right: auto;
 }
-}
+
 
 img:hover {
     transform: rotate(5deg) scale(1.1);
