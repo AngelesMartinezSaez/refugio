@@ -103,6 +103,13 @@ footer a:hover {
     color: #42a5f5;
 }
 
+video, iframe, form {
+    display: block;
+    margin: 0 auto; 
+    max-width: 100%; 
+    border-radius: 10px;
+}
+
 img {
     display: block;
     margin: 20px auto;
