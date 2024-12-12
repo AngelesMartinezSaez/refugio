@@ -68,7 +68,7 @@ article {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s;
     max-width: 800px;
-    text-align: center;
+    text-align: left;
 }
 
 article:hover {
@@ -120,5 +120,5 @@ img, video, iframe, form {
 }
 
 .foto-animada:hover {
-    transform: scale(1.1) rotate(5deg);
+    transform: rotate(10deg) scale(1.1);
 }
