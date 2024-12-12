@@ -75,10 +75,6 @@ article:hover {
     transform: translateY(-10px);
 }
 
-input[type="checkbox"] {
-    margin-right: 10px;
-    vertical-align: middle;
-}
 
 p {
     font-size: 18px;
