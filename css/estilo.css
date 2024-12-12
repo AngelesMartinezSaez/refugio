@@ -17,7 +17,7 @@ header {
 nav {
     background-color: #90caf9;
     padding: 10px 0;
-    text-align: center; 
+    align-content:center;
 }
 
 nav ul {
@@ -30,6 +30,7 @@ nav ul {
 
 nav ul li {
     margin: 0;
+    align-content:center;
 }
 
 nav ul li a {
