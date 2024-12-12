@@ -1,7 +1,6 @@
 body {
-    background-color: paleblue; 
-    background-image: linear-gradient(90deg, paleblue, white);
-    font-family: 'Playfair Display', serif;
+    background: linear-gradient(to bottom, #d0f0ff, #aedff7);
+    font-family: 'Verdana', sans-serif;
     color: #1a237e;
     padding: 20px; 
 }
@@ -104,17 +103,16 @@ footer a:hover {
     color: #42a5f5;
 }
 
-img, video, iframe, form {
+img {
     display: block;
     margin: 20px auto;
     max-width: 100%;
-    border-radius: 10px;
+    border-radius: 15px;
+    border: 6px solid #6db3f2;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
 }
 
-.foto-animada {
-    transition: transform 0.3s ease;
-}
-
-.foto-animada:hover {
-    transform: rotate(10deg) scale(1.1);
-}
+img:hover {
+    transform: rotate(5deg) scale(1.1);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
