@@ -41,6 +41,7 @@ nav ul li a {
     background-color: #64b5f6;
     border-radius: 5px;
     transition: background-color 0.3s, transform 0.3s;
+    align-items:center;
 }
 
 nav ul li a:hover {
