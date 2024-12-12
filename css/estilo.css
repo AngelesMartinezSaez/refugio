@@ -71,12 +71,16 @@ article {
     max-width: 800px; 
 }
 
+input[type="checkbox"] {
+    margin-right: 10px; 
+    vertical-align: middle;
+
 article:hover {
     transform: translateY(-10px);
 }
 
 p {
-    font-size: 18px; 
+    font-size: 25px; 
     line-height: 1.6;
     margin: 20px; 
     padding: 10px; 
