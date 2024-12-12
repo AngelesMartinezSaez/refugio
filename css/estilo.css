@@ -12,12 +12,12 @@ header {
     text-align: center;
     padding: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    align-content:center;
 }
 
 nav {
     background-color: #90caf9;
     padding: 10px 0;
-    align-content:center;
 }
 
 nav ul {
@@ -30,7 +30,6 @@ nav ul {
 
 nav ul li {
     margin: 0;
-    align-content:center;
 }
 
 nav ul li a {
